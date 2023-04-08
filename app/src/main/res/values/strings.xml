@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="character_image_contentDesc">Character image</string>
+    <string name="character_unknown">There is no information</string>
+    <string name="no_results">No results , please check your internet connection</string>
+
+    <string name="characters_title_action_bar">Marvel Hero</string>
+    <string name="details_title_action_bar">Details and Comics</string>
+
+    <string name="madeBySezer">Made by Sezer Özaltun</string>
+    <string name="linkedin">Linkedin: sezerozaltunn</string>
+    <string name="github">Github: sezer1578</string>
+
+    <string name="exitApp">Exit App</string>
+    <string name="exitQuestiom">Do you want to exit the app ?</string>
+    <string name="yes">Yess</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
